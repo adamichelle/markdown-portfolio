@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love to code. My favorite language is __Javascript__. I am also proficient at __HTML__, __CSS__ and _framworks_ such as __Bootstrap__ 
