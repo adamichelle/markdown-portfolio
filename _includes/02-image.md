@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Adaobi's picture](https://res.cloudinary.com/missada/image/upload/v1556626513/ib_vacation/4.jpg)
